@@ -1,32 +1,33 @@
 {
   "files": {
-    "main.css": "/landing4/static/css/main.6210f75a.css",
-    "main.js": "/landing4/static/js/main.8aebeac1.js",
+    "main.css": "/landing4/static/css/main.ad592f30.css",
+    "main.js": "/landing4/static/js/main.7e603be5.js",
     "static/js/787.28525a86.chunk.js": "/landing4/static/js/787.28525a86.chunk.js",
     "static/media/fondo2.svg": "/landing4/static/media/fondo2.37b6aafd2f285873a06e.svg",
-    "static/media/fondo.svg": "/landing4/static/media/fondo.eba84d82a183646fb337.svg",
-    "static/media/fondoEscritorio.svg": "/landing4/static/media/fondoEscritorio.e6c939575b3234c1061c.svg",
+    "static/media/fondo.svg": "/landing4/static/media/fondo.ac36e9afa08d9c5f6b68.svg",
+    "static/media/fondoEscritorio.webp": "/landing4/static/media/fondoEscritorio.075800e9392f4ab82e31.webp",
     "static/media/fondoEscritorio.png": "/landing4/static/media/fondoEscritorio.8ad4b6371af91f5ac34c.png",
+    "static/media/fondo.webp": "/landing4/static/media/fondo.a7b089451c084adb5c7b.webp",
     "static/media/fondo2.png": "/landing4/static/media/fondo2.c37d0d525ee55933c83d.png",
     "static/media/GreycliffCF-Regular.ttf": "/landing4/static/media/GreycliffCF-Regular.2d53298323f2ca25b753.ttf",
     "static/media/fondo.png": "/landing4/static/media/fondo.8be3ae07a75b9d49c508.png",
     "static/media/FarnhamDisplayRegularOSF.otf": "/landing4/static/media/FarnhamDisplayRegularOSF.94ab730e606ae6f3de94.otf",
     "static/media/logo.svg": "/landing4/static/media/logo.628497c8f0fb7c62b22477dc2794f951.svg",
     "static/media/LogoP.svg": "/landing4/static/media/LogoP.031e5ba45f50dbb9e5c9434430e80d48.svg",
+    "static/media/fondoDeg.webp": "/landing4/static/media/fondoDeg.e1a089d8d4b859954418.webp",
     "static/media/RedP.svg": "/landing4/static/media/RedP.059dafb9b1c3d8f9a328d16ae639f711.svg",
     "static/media/red.svg": "/landing4/static/media/red.06912b0f80878ca101930c41c7db1d48.svg",
     "static/media/InstaP.svg": "/landing4/static/media/InstaP.8d897613a4e1a68ec4999565bbe599aa.svg",
     "static/media/icono+.svg": "/landing4/static/media/icono+.7d7ed5e7ab5dedee5a0eab9dd8a30315.svg",
     "index.html": "/landing4/index.html",
     "static/media/posicion.svg": "/landing4/static/media/posicion.9674db6756249a30ea61e8ec81910935.svg",
-    "static/media/fondoDeg.svg": "/landing4/static/media/fondoDeg.a18dac9406bc94b84c2a.svg",
     "static/media/FaceP.svg": "/landing4/static/media/FaceP.dfc532444d46d9785c9445d110bbc7b4.svg",
-    "main.6210f75a.css.map": "/landing4/static/css/main.6210f75a.css.map",
-    "main.8aebeac1.js.map": "/landing4/static/js/main.8aebeac1.js.map",
+    "main.ad592f30.css.map": "/landing4/static/css/main.ad592f30.css.map",
+    "main.7e603be5.js.map": "/landing4/static/js/main.7e603be5.js.map",
     "787.28525a86.chunk.js.map": "/landing4/static/js/787.28525a86.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6210f75a.css",
-    "static/js/main.8aebeac1.js"
+    "static/css/main.ad592f30.css",
+    "static/js/main.7e603be5.js"
   ]
 }
